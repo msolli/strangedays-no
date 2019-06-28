@@ -1,0 +1,8 @@
+{
+  "name": "strangedays-no",
+  "version": "1.0.0",
+  "description": "strangedays.no website",
+  "repository": "git@github.com:msolli/strangedays-no.git",
+  "author": "Martin Solli <msolli@gmail.com>",
+  "license": "MIT"
+}
