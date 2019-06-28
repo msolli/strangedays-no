@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strange Days</title>
+    <link>https://strangedays.no/</link>
+    <description>Recent content on Strange Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no-nb</language>
+    <lastBuildDate>Fri, 28 Jun 2019 11:14:56 +0200</lastBuildDate>
+    
+	<atom:link href="https://strangedays.no/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
